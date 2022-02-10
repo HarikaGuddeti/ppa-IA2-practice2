@@ -29,10 +29,4 @@ int main()
 {
   int x , y, z,k;
   x= input_side();
-  y= input_side();
-  z= input_side();
-  k=check_scalene(x,y,z);
-  output(x,y,z,k);
-  return 0;
-
-}
+  y=
